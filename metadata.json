@@ -1,0 +1,5 @@
+{
+  "name": "SkiPass Optimizer",
+  "description": "Optimize your winter ski season by finding the most cost-effective combination of season passes (Ikon, Epic, Indy, etc.) and day tickets based on your travel plans.",
+  "requestFramePermissions": []
+}
